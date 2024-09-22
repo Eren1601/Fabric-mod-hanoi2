@@ -1,5 +1,6 @@
 package net.eren.tuermehanoi;
 
+import net.eren.tuermehanoi.block.ModBlocks;
 import net.eren.tuermehanoi.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -20,6 +21,7 @@ public class TrmeVonHannoi implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 		LOGGER.info("Hello Fabric world!");
 	}
 }
