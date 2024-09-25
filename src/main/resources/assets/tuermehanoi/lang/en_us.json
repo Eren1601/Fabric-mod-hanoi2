@@ -2,5 +2,9 @@
   "item.tuermehanoi.pink_garnet": "Pink Garnet",
   "item.tuermehanoi.raw_pink_garnet": "Raw Pink Garnet",
   "block.tuermehanoi.pink_garnet_block": "Pink Garnet Block",
-  "block.tuermehanoi.raw_pink_garnet_block": "Raw Pink Garnet Block"
+  "block.tuermehanoi.raw_pink_garnet_block": "Raw Pink Garnet Block",
+
+  "itemgroup.tuermehanoi.pink_garnet_items": "Pink Garnet Items",
+  "itemgroup.tuermehanoi.pink_garnet_blocks": "Pink Garnet Blocks"
+
 }
